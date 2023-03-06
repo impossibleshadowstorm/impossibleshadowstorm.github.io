@@ -209,7 +209,8 @@ header .follow a:hover {
 }
 
 #about {
-    min-height: 50vh;
+    height: 50vh;
+    justify-content: center;
 }
 
 .about .row-1 {
