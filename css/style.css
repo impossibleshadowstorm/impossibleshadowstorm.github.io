@@ -208,6 +208,10 @@ header .follow a:hover {
     padding: .5rem 0;
 }
 
+#about {
+    min-height: 50vh;
+}
+
 .about .row-1 {
     display: flex;
     flex-wrap: wrap;
