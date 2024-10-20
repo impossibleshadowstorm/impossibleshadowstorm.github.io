@@ -1,4 +1,5 @@
 import {
+  IconBrandGithub,
   IconBrandLinkedin,
   IconBrandTwitter,
   IconBrandYoutube,
@@ -6,17 +7,22 @@ import {
 
 export const socials = [
   {
-    href: "https://twitter.com/mannupaaji",
+    href: "https://x.com/impossible_shad",
     label: "Twitter",
     icon: IconBrandTwitter,
   },
   {
-    href: "https://linkedin.com/in/manuarora28",
+    href: "https://www.linkedin.com/in/sumit-saurav-dev/",
     label: "LinkedIn",
     icon: IconBrandLinkedin,
   },
   {
-    href: "https://youtube.com/maninthere",
+    href: "https://github.com/impossibleshadowstorm",
+    label: "Github",
+    icon: IconBrandGithub,
+  },
+  {
+    href: "https://www.youtube.com/@rate_code",
     label: "YouTube",
     icon: IconBrandYoutube,
   },

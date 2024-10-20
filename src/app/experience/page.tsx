@@ -9,8 +9,10 @@ import { twMerge } from "tailwind-merge";
 
 const heading = (
   <>
-    <span className="text-4xl">💼</span>
-    <Heading className="font-black">Work History</Heading>
+    <div className="text-4xl flex">
+      <div className="mr-5">💼</div>
+      <Heading className="text-black">Work History</Heading>
+    </div>
     <Paragraph className="max-w-xl mt-4">
       I&apos;m a full-stack developer that loves{" "}
       <Highlight>building products</Highlight> and web apps that can impact
