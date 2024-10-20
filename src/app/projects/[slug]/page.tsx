@@ -24,9 +24,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   } else {
     return {
-      title: "Projects | John Doe",
+      title: "Projects | Sumit Saurav",
       description:
-        "John Doe is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
+        "Sumit Saurav is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
     };
   }
 }
